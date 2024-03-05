@@ -1,4 +1,4 @@
-package mymath
+package card
 
 import (
 	"slices"
